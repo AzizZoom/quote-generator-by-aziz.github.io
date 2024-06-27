@@ -24,6 +24,7 @@ body {
   padding: 20px 30px;
   border-radius: 10px;
   background-color: rgba(255, 255, 255, 0.4);
+  color: #00395f;
   box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.2);
 }
 
@@ -59,10 +60,10 @@ button {
   outline: none;
   border-radius: 10px;
   color: #ffffff;
-  background: #333;
+  background: #00395f;
   border: none;
   padding: 0.5rem 1.8rem;
-  box-shadow: 0 0.3rem rgba(121, 121, 121, 0.65);
+  box-shadow: 0 0.3rem rgba(0, 43, 78, 0.5);
   transition: color 0.5s ease;
 }
 
@@ -82,7 +83,7 @@ button:active {
 /* Loader */
 .loader {
   border: 16px solid #f3f3f3;
-  border-top: 16px solid #dbe1e5;
+  border-top: 16px solid #00395f;
   border-radius: 50%;
   width: 120px;
   height: 120px;
